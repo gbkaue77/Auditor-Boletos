@@ -1,0 +1,4 @@
+boletos/
+relatorio_boletos_*.xlsx
+__pycache__/
+.venv/
