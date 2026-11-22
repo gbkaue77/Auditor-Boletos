@@ -17,6 +17,10 @@ Conferir boletos manualmente (vencimento, valor, duplicidade) é lento e sujeito
 - Trata arquivos ilegíveis sem quebrar (`ERRO DE LEITURA`)
 - Gera um Excel com duas abas: **Boletos** (colorida por status) e **Resumo** (quantidade e valor total por status)
 
+## Resultado
+
+![Relatório gerado](resultado_excel.png)
+
 ## Como usar
 
 ```bash
